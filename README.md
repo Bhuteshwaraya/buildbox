@@ -1,27 +1,17 @@
 # BuildBox
 
-**[Download BuildBox](https://bhuteshwaraya.github.io/buildbox/)** — a local Ardeos combat simulator for FELLOWSHIP.
+Local Ardeos combat simulation for FELLOWSHIP.
 
-This repository contains the public download website, release information and published Windows installers. Development history and private project records are kept separately.
+[Download and setup](https://bhuteshwaraya.github.io/buildbox/) · [Patch notes](https://github.com/Bhuteshwaraya/buildbox/releases/tag/v0.1.0-preview.2)
 
-## Preview update in preparation
+Windows 11, Intel/AMD 64-bit and Google Chrome required. The installer includes the simulation engine and runtimes. Open BuildBox from Start after setup.
 
-The download is temporarily paused for a release privacy correction. The existing installed app is unchanged.
+**Unsigned preview:** if Windows blocks setup, stop; keep security protections enabled. Hardware testing is limited and full installation acceptance is pending.
 
-## Previous preview
+Updates are manual. Close BuildBox before installing. Updates back up saved work; uninstall keeps it.
 
-[0.1.0-preview.1](https://github.com/Bhuteshwaraya/buildbox/releases/tag/v0.1.0-preview.1) targets Windows 11 on Intel/AMD 64-bit PCs with Google Chrome. It is an unsigned early preview with limited hardware testing. If Windows blocks the installer, stop; do not disable protections.
+Builds and results stay local. Private error reporting is optional and off by default. No installation analytics. Use Help to review reports; avoid posting private diagnostics publicly.
 
-The local engine and runtimes are included. Install normally, then open BuildBox from the Start menu. Setup offers an optional desktop shortcut. No global developer tools, driver changes or background service are required.
+Developed by [Bhuteshwaraya](https://github.com/Bhuteshwaraya). [Optional donations](https://ko-fi.com/bhuteshwaraya).
 
-Updates are manual for this preview: close BuildBox, review the notes, then download and run the next official installer. Saved work is separate and backed up during an update. Uninstall keeps saves and backups. Automatic update installation is not enabled.
-
-## Privacy and support
-
-Builds and results stay local. Optional private problem reporting is off until you choose it in the app. There is no installation tracking or added analytics in this preview. GitHub and Ko-fi process visits under their own policies.
-
-Use **Help** inside BuildBox to review optional problem reports. Please do not post private saves or diagnostic details publicly.
-
-[Support development on Ko-fi](https://ko-fi.com/bhuteshwaraya) — optional; BuildBox's preview is free.
-
-BuildBox is an independent, unofficial tool. Game names and artwork belong to their respective owners. Official developer: [Bhuteshwaraya](https://github.com/Bhuteshwaraya). Original BuildBox work © 2026 Bhuteshwaraya; all rights reserved. [Third-party notices](THIRD-PARTY-NOTICES.txt).
+Unofficial FELLOWSHIP tool. Game assets belong to their owners. Original BuildBox work © 2026 Bhuteshwaraya; all rights reserved. [Third-party notices](THIRD-PARTY-NOTICES.txt).

@@ -1,1 +1,1 @@
-02acdec41071b39dbcb11b5e49f22aea58e06c4caa131749fe1f6ccaf5561aeb  BuildBox-0.1.0-preview.1-windows-x64.exe
+8a8dea0fd4fff02bf6bffbe2844584a9590f9395ed496d066bd86648c15d4f67  BuildBox-0.1.0-preview.2-windows-x64.exe

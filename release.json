@@ -1,15 +1,14 @@
 {
   "schema": "buildbox-public-release/v1",
-  "version": "0.1.0-preview.1",
+  "version": "0.1.0-preview.2",
   "channel": "preview",
   "date": "2026-11-02",
   "platform": "windows-11-x64",
   "manual_install_only": true,
   "publisher_signed": false,
-  "url": "https://github.com/Bhuteshwaraya/buildbox/releases/download/v0.1.0-preview.1/BuildBox-0.1.0-preview.1-windows-x64.exe",
-  "bytes": 44780605,
-  "sha256": "02acdec41071b39dbcb11b5e49f22aea58e06c4caa131749fe1f6ccaf5561aeb",
-  "notes_url": "https://github.com/Bhuteshwaraya/buildbox/releases/tag/v0.1.0-preview.1",
-  "available": false,
-  "status": "privacy-update-in-preparation"
+  "url": "https://github.com/Bhuteshwaraya/buildbox/releases/download/v0.1.0-preview.2/BuildBox-0.1.0-preview.2-windows-x64.exe",
+  "bytes": 42206061,
+  "sha256": "8a8dea0fd4fff02bf6bffbe2844584a9590f9395ed496d066bd86648c15d4f67",
+  "notes_url": "https://github.com/Bhuteshwaraya/buildbox/releases/tag/v0.1.0-preview.2",
+  "available": true
 }

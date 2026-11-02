@@ -6,9 +6,9 @@
   "platform": "windows-11-x64",
   "manual_install_only": true,
   "publisher_signed": false,
-  "url": "https://github.com/Bhuteshwaraya/buildbox/releases/download/v0.1.0.2/BuildBox-0.1.0.2-windows-x64.exe",
-  "bytes": 42205025,
-  "sha256": "d219cc7aa9d17098e2073b35d30b9fe728eccafd79ac3d3cc08f368ed6b04062",
+  "url": "https://github.com/Bhuteshwaraya/buildbox/releases/download/v0.1.0.2/BuildBox-0.1.0.2-Setup-windows-x64.exe",
+  "bytes": 42205020,
+  "sha256": "37dcf3edadd6f983d82290ef7130306dde730ecb24f5a4b2a165c06b59421473",
   "notes_url": "https://github.com/Bhuteshwaraya/buildbox/releases/tag/v0.1.0.2",
   "available": true
 }

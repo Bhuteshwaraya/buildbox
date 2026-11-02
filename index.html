@@ -1,0 +1,66 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="BuildBox: a local Ardeos combat simulator for FELLOWSHIP. Compare builds, explore rotations and learn from your results. Windows preview.">
+  <meta name="color-scheme" content="dark">
+  <meta name="referrer" content="strict-origin-when-cross-origin">
+  <title>BuildBox — Build. Sim. Understand.</title>
+  <link rel="icon" href="mark.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="style.css?v=0.1.0-preview.1">
+</head>
+<body>
+  <a class="skip" href="#main">Skip to content</a>
+  <header class="site-header wrap">
+    <a class="brand" href="./" aria-label="BuildBox home"><img src="mark.svg" width="34" height="38" alt=""><span>BUILD<span class="gold">BOX</span></span></a>
+    <nav aria-label="Main navigation"><a href="#setup">Setup</a><a href="#release-notes">Patch notes</a><a class="support-link" href="https://ko-fi.com/bhuteshwaraya" target="_blank" rel="noopener noreferrer">♥ Support</a></nav>
+  </header>
+  <main id="main">
+    <section class="hero wrap" aria-labelledby="hero-title">
+      <div class="hero-copy">
+        <p class="eyebrow"><span class="status-dot"></span> WINDOWS PREVIEW · ARDEOS / FELLOWSHIP</p>
+        <h1 id="hero-title">Build.<br>Sim.<br><em>Understand.</em></h1>
+        <p class="intro">Your next build deserves more than a hunch. Compare setups, explore rotations and inspect the fights behind the numbers.</p>
+        <div class="download-actions"><a class="button primary" href="#release-notes">Privacy update in preparation</a><a class="text-link" href="#setup">Read setup guide <span aria-hidden="true">↗</span></a></div>
+        <p class="download-meta">Download temporarily paused while the privacy update is prepared.</p>
+        <p class="requirements">Windows 11 · Intel / AMD 64-bit PC · Google Chrome</p>
+        <div class="preview-notice"><strong>Early, unsigned preview.</strong> Windows may warn or block the installer. If blocked, stop; don’t disable security protections. Hardware testing is limited. <a href="#limits">Read preview limits.</a></div>
+      </div>
+      <div class="workflow" aria-labelledby="workflow-title">
+        <div class="workflow-heading"><span class="eyebrow">THE BUILDBOX LOOP</span><span class="local-label">Runs on your PC</span></div>
+        <h2 id="workflow-title">From “what if”<br>to “show me.”</h2>
+        <ol class="steps">
+          <li><span class="step-no">01</span><div><h3>Choose what can change</h3><p>Include alternatives. Lock the essentials. Compare the setups you actually care about.</p><div class="mini-tags"><span>Builds</span><span>Stats &amp; gear</span><span>Rotations</span></div></div></li>
+          <li><span class="step-no">02</span><div><h3>Set the question</h3><p>Test a rotation you have, or search for a better one. Review the scope and estimated work before running.</p></div></li>
+          <li><span class="step-no">03</span><div><h3>See how it happened</h3><p>Read the damage, buffs and timeline. Inspect low, typical and high fights instead of trusting a single lucky run.</p></div></li>
+        </ol>
+        <p class="workflow-foot">The numbers stay serious.<br><span>Your questionable build decisions are between you and the sim.</span></p>
+      </div>
+    </section>
+    <section id="setup" class="section wrap setup" aria-labelledby="setup-title">
+      <div class="section-intro"><p class="eyebrow">FIRST TIME HERE?</p><h2 id="setup-title">One setup.<br>Your own simulator.</h2><p>The website is your download and update home. BuildBox itself opens as a local app and does the simulation work on your computer.</p><p class="muted">No account or developer tools required. No cloud simulation bill.</p></div>
+      <ol class="install-steps">
+        <li><h3><span>1</span> Download the preview</h3><p>Use the button above. You’ll get the Windows installer from the official <a href="https://github.com/Bhuteshwaraya/buildbox/releases/tag/v0.1.0-preview.1">BuildBox GitHub release</a>. Google Chrome must already be installed.</p></li>
+        <li><h3><span>2</span> Review and install</h3><p>Close BuildBox if it’s running. Read the setup agreement, then install for your Windows account. The local simulation engine and its runtimes are included: about 159 MB of program files, plus space for saved work and update backups.</p><p class="muted">Setup shows progress and offers an optional desktop shortcut. It does not install a background service or change your drivers.</p></li>
+        <li><h3><span>3</span> Open BuildBox</h3><p>Find BuildBox in the Start menu. Help explains the include and lock controls. Choose your setup, review the run settings, then start when you’re ready. Computer usage controls let you leave room for other work.</p></li>
+      </ol>
+    </section>
+    <section id="release-notes" class="section wrap" aria-labelledby="notes-title">
+      <div class="section-heading"><div><p class="eyebrow">BATCHED CHANGES, CLEAR HISTORY</p><h2 id="notes-title">First public preview</h2></div><p class="release-date">0.1.0-preview.1<br><time datetime="2026-11-02">2 November 2026</time></p></div>
+      <div class="release-grid">
+        <div><h3>Build, compare and learn</h3><ul><li>Build choices, relic selection and locks, talent cards, gems and Enchant count controls.</li><li>Separate fight and simulation settings, rotation testing/search and adjustable computer usage.</li><li>Results, replay timelines, damage and buff views for supported simulations.</li></ul></div>
+        <div><h3>Polish &amp; delivery</h3><ul><li>Help responds to the mouse wheel. Borderless fullscreen starts by default; Options provides a windowed mode.</li><li>Exit handling now acknowledges a close and rejects late activity messages in isolated checks.</li><li>Per-user Windows setup, separate saved work, backup/repair handling and optional private problem reports.</li></ul></div>
+      </div>
+      <div class="release-footer"><a class="text-link" href="https://github.com/Bhuteshwaraya/buildbox/releases/tag/v0.1.0-preview.1">Full release notes on GitHub ↗</a><a href="SHA256SUMS.txt">Download checksum</a><a href="THIRD-PARTY-NOTICES.txt">Third-party notices</a></div>
+    </section>
+    <section class="section wrap practical" aria-label="Updates, privacy and preview limits">
+      <div id="updates"><p class="eyebrow">KEEP IT CURRENT</p><h2>Updates, without losing your work.</h2><p>For this preview, updates are manual. Return here, read the patch notes and download the next installer. Close BuildBox before running setup. Saved work is kept separately and backed up by the update process.</p><p>Automatic update installation is not enabled. Uninstall keeps your saved work and backups. Keep your own copy of anything important, too.</p></div>
+      <div id="privacy"><p class="eyebrow">YOUR COMPUTER, YOUR WORK</p><h2>Small footprint. Clear choices.</h2><p>Builds and results stay local. This preview adds no installation tracking or analytics. Optional private problem reports are off until you choose to send them; use Help to review the details.</p><p>Reports exclude builds, saves, account details and local file paths. GitHub hosts this page and downloads; Ko-fi handles optional donations under their own privacy policies.</p></div>
+      <div id="limits"><p class="eyebrow">KNOW THE BOUNDARIES</p><h2>A preview, with honest limits.</h2><p>This release targets Windows 11 on Intel/AMD 64-bit PCs with Chrome. Other systems and ARM devices are not qualified. The latest installer and shutdown changes have isolated checks; the full public download-to-install journey still needs its first live acceptance test.</p><p>GPU assistance is optional and applies only to supported work. Results depend on the current model and its assumptions. A winning tested build is not proof of the best possible build in the game.</p></div>
+    </section>
+    <aside class="support wrap" aria-labelledby="support-title"><div><p class="eyebrow">SIX MONTHS IN. STILL BUILDING.</p><h2 id="support-title">Help keep BuildBox cooking.</h2><p>If it helps you find a better build, consider buying its developer a coffee. Support is optional; the preview is free.</p></div><a class="button support-button" href="https://ko-fi.com/bhuteshwaraya" target="_blank" rel="noopener noreferrer">♥ Support on Ko-fi</a></aside>
+  </main>
+  <footer class="wrap footer"><div><span class="brand">BUILD<span class="gold">BOX</span></span><p>Independent, unofficial FELLOWSHIP tool.<br>Game names and artwork belong to their respective owners.</p></div><div><a href="https://github.com/Bhuteshwaraya/buildbox/releases">All releases</a><a href="#privacy">Privacy</a><p>© 2026 <a href="https://github.com/Bhuteshwaraya">Bhuteshwaraya</a> · Official BuildBox developer.</p></div></footer>
+</body>
+</html>

@@ -1,0 +1,20 @@
+BuildBox
+Copyright 2026 Bhuteshwaraya. All rights reserved for original BuildBox work.
+Third-party components keep their respective licenses and ownership.
+
+BuildBox is an independent, unofficial tool for FELLOWSHIP. Game names, icons and
+artwork belong to their respective owners. No official endorsement is claimed.
+
+Python 3.14.10: Python Software Foundation and contributors.
+Included license and notices: runtime/python/LICENSE.txt
+https://www.python.org/
+
+Node.js 24.22.2: Node.js contributors and OpenJS Foundation.
+Included license and dependency notices: runtime/node/LICENSE
+https://nodejs.org/
+
+Windows setup is built with unmodified Inno Setup.
+Copyright 1997-2026 Jordan Russell; portions copyright 2000-2026 Martijn Laan.
+https://jrsoftware.org/
+
+Google Chrome is a separately installed prerequisite and is not distributed here.

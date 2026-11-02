@@ -1,15 +1,11 @@
-# BuildBox 0.1.0-preview.2
+# BuildBox 0.1.0.2
 
 2 November 2026
 
-- Developer credits now use **Bhuteshwaraya**.
-- Removed engine debug metadata, reducing program files by about 23 MB. Simulation code is unchanged.
-- Fixed older reports being marked outdated, and their replays blocked, after a packaging-only change.
-- Kept saves and original replay identities compatible with the cleaned engine files.
-- Shortened the website introduction and patch notes.
-- Optional private error reporting remains active, with its existing opt-in setting.
+- Fixed saved reports and replays failing to open after an update.
+- Reduced the Windows download size.
 
-**Install/update:** Windows 11, Intel/AMD 64-bit and Chrome required. Close BuildBox, run the installer, then open it from Start. Updates back up saved work; uninstall keeps it.
+**Install/update:** Windows 11 and Intel/AMD 64-bit. The app requires Chrome. Close BuildBox, run the installer, then open it from Start. Updates back up saved work; uninstall keeps it.
 
 **Preview limits:** unsigned, manual updates, limited hardware testing. If Windows blocks setup, stop; keep protections enabled. Full public installation/start/close testing is still pending. GPU assistance covers supported work only. Results depend on modeled mechanics, not a guarantee of game accuracy or a global best build.
 

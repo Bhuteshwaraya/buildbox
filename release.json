@@ -1,14 +1,20 @@
 {
   "schema": "buildbox-public-release/v1",
-  "version": "0.1.0.2",
+  "version": "0.1.1",
   "channel": "preview",
   "date": "2026-11-02",
   "platform": "windows-11-x64",
-  "manual_install_only": true,
+  "manual_install_only": false,
+  "in_app_update": true,
+  "data_schema": 1,
   "publisher_signed": false,
-  "url": "https://github.com/Bhuteshwaraya/buildbox/releases/download/v0.1.0.2/BuildBox-0.1.0.2-Setup-windows-x64.exe",
-  "bytes": 42205020,
-  "sha256": "37dcf3edadd6f983d82290ef7130306dde730ecb24f5a4b2a165c06b59421473",
-  "notes_url": "https://github.com/Bhuteshwaraya/buildbox/releases/tag/v0.1.0.2",
+  "url": "https://github.com/Bhuteshwaraya/buildbox/releases/download/v0.1.1/BuildBox-0.1.1-Setup-windows-x64.exe",
+  "bytes": 42218219,
+  "sha256": "377e8070b57553e9bc0619db145293d62ef0af6f3cc12ea77a785ecf706e8a98",
+  "notes_url": "https://github.com/Bhuteshwaraya/buildbox/releases/tag/v0.1.1",
+  "changes": [
+    "An illuminated Update button appears when a new version is available.",
+    "Download updates with progress, then install and restart from BuildBox. Saved setup is kept."
+  ],
   "available": true
 }

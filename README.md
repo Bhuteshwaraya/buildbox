@@ -2,13 +2,13 @@
 
 Local Ardeos combat simulation for FELLOWSHIP.
 
-[Download and setup](https://bhuteshwaraya.github.io/buildbox/) · [Patch notes](https://github.com/Bhuteshwaraya/buildbox/releases/tag/v0.1.0.2)
+[Download and setup](https://bhuteshwaraya.github.io/buildbox/) · [Patch notes](https://github.com/Bhuteshwaraya/buildbox/releases/tag/v0.1.1)
 
 Windows 11 and Intel/AMD 64-bit. The app requires Chrome. The installer includes the simulation engine and runtimes. Open BuildBox from Start after setup.
 
-**Unsigned preview:** if Windows blocks setup, stop; keep security protections enabled. Hardware testing is limited and full installation acceptance is pending.
+**Unsigned preview:** if Windows blocks setup, stop; keep security protections enabled. Installation and startup were checked on one Windows PC; broader hardware testing is pending.
 
-Updates are manual. Close BuildBox before installing. Updates back up saved work; uninstall keeps it.
+From 0.1.1, check and download updates inside BuildBox, then choose when to install and restart. Earlier versions need this installer once. Updates back up saved work; uninstall keeps it. The first later-version in-app upgrade still awaits live verification.
 
 Builds and results stay local. Private error reporting is optional and off by default. No installation analytics. Use Help to review reports; avoid posting private diagnostics publicly.
 

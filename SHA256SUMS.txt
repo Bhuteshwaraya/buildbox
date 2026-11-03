@@ -1,1 +1,1 @@
-37dcf3edadd6f983d82290ef7130306dde730ecb24f5a4b2a165c06b59421473  BuildBox-0.1.0.2-Setup-windows-x64.exe
+377e8070b57553e9bc0619db145293d62ef0af6f3cc12ea77a785ecf706e8a98  BuildBox-0.1.1-Setup-windows-x64.exe

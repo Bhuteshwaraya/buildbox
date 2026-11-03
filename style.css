@@ -2,3 +2,6 @@
 
 .hero-copy,.workflow{min-width:0}
 .workflow h2{margin-top:0;font-size:32px}.steps li:last-child{border-bottom:0;padding-bottom:0}.patch-list{padding-left:20px;color:var(--muted);font-size:15px;margin:0}.patch-list li+li{margin-top:9px}.practical h2{margin-top:0}.download-meta,.requirements,.preview-notice{font-size:13px}.footer a{margin-left:0}.footer>div:last-child>a+a{margin-left:18px}
+.download-release{display:flex;align-items:baseline;gap:10px;margin:26px 0 12px;color:var(--muted);font-size:14px;line-height:1.5;font-variant-numeric:tabular-nums}.download-release strong{color:var(--gold);font-size:19px;font-weight:650}.download-release time{white-space:nowrap}
+
+.download-release+.download-actions{margin-top:0}

@@ -1,15 +1,19 @@
-# BuildBox 0.1.2
+# BuildBox 0.1.3
 
 2 November 2026
 
-- Update & restart now downloads, installs and reopens BuildBox in one action.
-- Check now finds new updates immediately, without waiting for the automatic check.
+- Fixed updates failing to restart BuildBox.
+- Update errors remain visible. Saved setup is kept.
 
-**Updating:** saved setup is kept. On 0.1.1, choose Download update, then Install & restart. Earlier versions need this installer once.
+**Updating:** versions 0.1.2 and earlier need this installer once to repair updating.
 
 **Requirements:** Windows 11, Intel/AMD 64-bit and Chrome. Unsigned; if Windows blocks setup, stop and keep protections enabled. Broader hardware testing is pending. Known replay and results issues remain queued.
 
 [Help and downloads](https://bhuteshwaraya.github.io/buildbox/) · [Third-party notices](https://bhuteshwaraya.github.io/buildbox/THIRD-PARTY-NOTICES.txt)
+
+## 0.1.2
+
+- One-action Update & restart and immediate Check now.
 
 ## 0.1.1
 

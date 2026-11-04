@@ -1,4 +1,22 @@
-# BuildBox 0.1.4
+# BuildBox 0.1.5 — Builder improvements
+
+3 November 2026
+
+- Edit talents inside the Builder and press Enter to save. Starting a run now requires a selected talent build.
+- Stat previews and bonus messages keep their place; stat locks and comparison values are clearer.
+- Gem comparisons use exact legal tiers, with clearer lock states and Hidden Riches limits.
+- Character sockets, weapon traits and pane headings are easier to read.
+- Tap Escape once to leave fullscreen. Exit confirms that settings stay saved.
+
+Replay and rotation-result improvements are coming in separate batches.
+
+**Updating:** choose **Update & restart** inside BuildBox, or **Check now** in Options. Versions 0.1.2 and earlier need the current installer once.
+
+**Requirements:** Windows 11, Intel/AMD 64-bit and Chrome. Unsigned; if Windows blocks setup, stop and keep protections enabled. Broader hardware testing is pending.
+
+[Patch notes & upcoming features](https://bhuteshwaraya.github.io/buildbox/patch-notes.html) · [Download and setup](https://bhuteshwaraya.github.io/buildbox/)
+
+## 0.1.4
 
 2 November 2026
 

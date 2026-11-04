@@ -1,20 +1,23 @@
 {
   "schema": "buildbox-public-release/v1",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "channel": "preview",
-  "date": "2026-11-02",
+  "date": "2026-11-03",
   "platform": "windows-11-x64",
   "manual_install_only": false,
   "in_app_update": true,
   "data_schema": 1,
   "publisher_signed": false,
-  "url": "https://github.com/Bhuteshwaraya/buildbox/releases/download/v0.1.4/BuildBox-0.1.4-Setup-windows-x64.exe",
-  "bytes": 42224523,
-  "sha256": "7d9656f0606f6566e2ad311924903ab2f79cb42a5cbad8eed767ea30d354804e",
-  "notes_url": "https://github.com/Bhuteshwaraya/buildbox/releases/tag/v0.1.4",
+  "url": "https://github.com/Bhuteshwaraya/buildbox/releases/download/v0.1.5/BuildBox-0.1.5-Setup-windows-x64.exe",
+  "bytes": 42238540,
+  "sha256": "7c0846493aa807e50f16ac89db8969abdd13dc9e1e1e1986aa71193c8376ab3d",
+  "notes_url": "https://github.com/Bhuteshwaraya/buildbox/releases/tag/v0.1.5",
   "changes": [
-    "Fixed automatic update checks skipping a cycle.",
-    "Check now finds updates immediately."
+    "Edit talents in the Builder; press Enter to save. Runs require a selected talent build.",
+    "Stable stat previews and clearer locks.",
+    "Exact legal gem comparisons and Hidden Riches limits.",
+    "Clearer Character sockets, weapon traits and headings.",
+    "Tap Escape to leave fullscreen; Exit confirms settings stay saved."
   ],
   "available": true
 }

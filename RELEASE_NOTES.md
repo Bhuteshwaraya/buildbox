@@ -1,4 +1,20 @@
-# BuildBox 0.1.5 — Builder improvements
+# BuildBox 0.1.6 — Update repair
+
+3 November 2026
+
+- Fixed updates being refused when older BuildBox versions are retained.
+- Moved the update arrow below the version label.
+- Patch-note links now open the patch-notes and upcoming-features page.
+
+Includes the Builder improvements from 0.1.5.
+
+**Updating:** choose **Update & restart** inside BuildBox, or **Check now** in Options. Versions 0.1.2 and earlier need the current installer once.
+
+**Requirements:** Windows 11, Intel/AMD 64-bit and Chrome. Unsigned; if Windows blocks setup, stop and keep protections enabled. Broader hardware testing is pending.
+
+[Patch notes & upcoming features](https://bhuteshwaraya.github.io/buildbox/patch-notes.html) · [Download and setup](https://bhuteshwaraya.github.io/buildbox/)
+
+## 0.1.5 — Builder improvements
 
 3 November 2026
 

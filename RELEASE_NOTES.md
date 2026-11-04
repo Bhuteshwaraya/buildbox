@@ -1,3 +1,12 @@
+# BuildBox 0.1.7 — Clearer replays
+
+4 November 2026
+
+- Restored recorded buffs, debuffs and cooldowns in fight replays.
+- Clarified Ember spending, refunds, Cinder gains and free Detonates.
+- Improved timeline sizing and range zoom; removed the duplicate report timeline.
+- Smoothed startup and simplified fight settings, with five-minute defaults.
+
 # BuildBox 0.1.6 — Update repair
 
 3 November 2026
@@ -71,3 +80,4 @@ Replay and rotation-result improvements are coming in separate batches.
 - Results, replay timelines, damage and buff views.
 - Scrollable Help, fullscreen/windowed options and revised exit handling.
 - Per-user setup, bundled runtimes, save backups, repair and optional private error reports.
+

@@ -1,3 +1,18 @@
+# BuildBox 0.1.8 — Clearer rotation results
+
+5 November 2026
+
+- Inspect leading rotations with their own fight distributions and Low, Typical and High replays.
+- Compare rotation rules side by side in plain language or SimC-style text.
+- Explore graph-linked statistics and evidence-qualified guidance on close comparisons.
+- Reopen saved results and switch rotations from the timeline.
+- Improved report spacing, Test identity and startup recovery.
+- Fixed the update notice being covered by the navigation rail.
+
+Update in BuildBox with **Update & restart**. Compatible saved setups and results are preserved.
+
+Windows preview; unsigned installer. If Windows blocks setup, stop and keep security protections enabled.
+
 # BuildBox 0.1.7 — Clearer replays
 
 4 November 2026

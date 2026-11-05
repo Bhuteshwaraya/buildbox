@@ -1,2 +1,1 @@
-1244f6ca21bbc0aa00894d1073bdefe41ead7948cd061a54de0ef6180897b50d  BuildBox-0.1.7-Setup-windows-x64.exe
-a865bf96b7cb0a8ff088cb4e30a507ed1deaf0db026b082bc3296b86b276cec1  release.json
+a40d6d7e3075d66c4f710389bf21d54da8d680bc17b548acf11f98c9f3ba56c4  BuildBox-0.1.8-Setup-windows-x64.exe

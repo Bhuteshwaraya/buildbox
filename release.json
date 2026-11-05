@@ -1,1 +1,20 @@
-{"available":true,"bytes":42268346,"changes":["Restored recorded buffs, debuffs and cooldowns in fight replays.","Clarified Ember spending, refunds, Cinder gains and free Detonates.","Improved timeline sizing and range zoom; removed the duplicate report timeline.","Smoothed startup and simplified fight settings, with five-minute defaults."],"data_schema":1,"in_app_update":true,"notes_url":"https://github.com/Bhuteshwaraya/buildbox/releases/tag/v0.1.7","platform":"windows-11-x64","schema":"buildbox-public-release/v1","sha256":"1244f6ca21bbc0aa00894d1073bdefe41ead7948cd061a54de0ef6180897b50d","url":"https://github.com/Bhuteshwaraya/buildbox/releases/download/v0.1.7/BuildBox-0.1.7-Setup-windows-x64.exe","version":"0.1.7"}
+{
+  "available": true,
+  "bytes": 42436149,
+  "changes": [
+    "Inspect leading rotations with their own fight distributions and Low, Typical and High replays.",
+    "Compare rotation rules side by side in plain language or SimC-style text.",
+    "Explore graph-linked statistics and evidence-qualified guidance on close comparisons.",
+    "Reopen saved results and switch rotations from the timeline.",
+    "Improved report spacing, Test identity and startup recovery.",
+    "Fixed the update notice being covered by the navigation rail."
+  ],
+  "data_schema": 1,
+  "in_app_update": true,
+  "notes_url": "https://github.com/Bhuteshwaraya/buildbox/releases/tag/v0.1.8",
+  "platform": "windows-11-x64",
+  "schema": "buildbox-public-release/v1",
+  "sha256": "a40d6d7e3075d66c4f710389bf21d54da8d680bc17b548acf11f98c9f3ba56c4",
+  "url": "https://github.com/Bhuteshwaraya/buildbox/releases/download/v0.1.8/BuildBox-0.1.8-Setup-windows-x64.exe",
+  "version": "0.1.8"
+}

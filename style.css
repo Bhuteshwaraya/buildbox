@@ -21,6 +21,9 @@ h1, h2, p { margin: 0; }
 .tagline { margin-top: 18px; font-size: clamp(20px, 1.7vw, 26px); line-height: 1.45; color: var(--text); }
 .download { display: inline-flex; align-items: center; gap: 28px; padding: 12px 20px; margin: 28px 0 12px; border: 1px solid var(--gold); background: var(--gold); color: #10212a; font-size: 15px; font-weight: 650; text-decoration: none; border-radius: 3px; }
 .download:hover { background: #ffe3b6; color: #10212a; }
+.hero-actions { display: flex; align-items: center; flex-wrap: wrap; gap: 8px 24px; margin: 28px 0 12px; }
+.hero-actions .download { margin: 0; }
+.community { display: inline-flex; align-items: center; gap: 8px; min-height: 44px; font-size: 15px; }
 .meta { color: var(--muted); font-size: 12px; line-height: 1.7; }
 .below { margin: 0 clamp(24px, 4.5vw, 80px); }
 .details { max-width: 760px; padding: 10px 0 24px; font-size: 14px; }
@@ -58,7 +61,7 @@ li + li { margin-top: 5px; }
   .hero-copy { padding: 24px 24px 0; }
   .hero h1 { font-size: 58px; }
   .tagline { margin-top: 12px; font-size: 20px; }
-  .download { margin-top: 24px; }
+  .hero-actions { margin-top: 24px; }
   .below { margin-inline: 24px; }
   .details { padding-bottom: 18px; }
   footer { display: block; }

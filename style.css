@@ -11,9 +11,9 @@ nav a { text-decoration: none; }
 .site-header nav a { color: var(--text); }
 .brand { display: inline-flex; align-items: center; gap: 10px; color: var(--text); font-size: 19px; font-weight: 650; text-decoration: none; }
 .brand img { display: block; }
-.hero { position: relative; isolation: isolate; min-height: min(880px, 100svh); display: flex; align-items: flex-end; padding: 140px clamp(24px, 4.5vw, 80px) 48px; }
+.hero { position: relative; isolation: isolate; min-height: min(880px, 60vw, 100svh); display: flex; align-items: flex-end; padding: 140px clamp(24px, 4.5vw, 80px) 48px; }
 .hero-art { position: absolute; z-index: -2; inset: 0; }
-.hero-art img { display: block; width: 100%; height: 100%; object-fit: cover; object-position: 50% 40%; }
+.hero-art img { display: block; width: 100%; height: 100%; object-fit: cover; object-position: 50% 0%; }
 .hero::after { content: ""; position: absolute; z-index: -1; inset: 0; pointer-events: none; background: linear-gradient(0deg, var(--bg), #04141d8c 22%, transparent 53%); }
 .hero-copy { max-width: 580px; }
 h1, h2, p { margin: 0; }
@@ -48,7 +48,7 @@ footer nav { gap: 20px; }
 ul { margin: 0 0 12px; padding-left: 20px; }
 li + li { margin-top: 5px; }
 [aria-current="page"] { color: var(--text); }
-@media (min-width: 1800px) { .hero { min-height: 960px; } }
+@media (min-width: 1800px) { .hero { min-height: max(960px, 42vw); } }
 @media (max-width: 1100px) {
   .site-header { position: relative; padding: 20px 24px; background: none; }
   .hero { display: block; min-height: 0; padding: 0 0 28px; }
